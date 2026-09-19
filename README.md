@@ -1,4 +1,4 @@
-# GSC-2025
+# VOTEX
 
 # Revolutionizing Voter Verification: A Digital Solution
 
