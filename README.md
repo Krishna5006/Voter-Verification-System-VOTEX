@@ -1,4 +1,4 @@
-# VOTEX
+# Voter Verification System – VOTEX
 
 # Revolutionizing Voter Verification: A Digital Solution
 
